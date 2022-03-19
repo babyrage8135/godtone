@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0xCfDb802Bc99E1804470281113519807c74cb4E03",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xcfdb802bc99e1804470281113519807c74cb4e03",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  
+  },
+  "NFT_NAME": "ASIAGODTONE",
+  "SYMBOL": "ASGT",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/asiagodtone",
+  "SHOW_BACKGROUND": true
+}
